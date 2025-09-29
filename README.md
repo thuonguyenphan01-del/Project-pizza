@@ -3,7 +3,7 @@ Mô tả: Project báo cáo doanh thu và các sản phẩm bán chạy trong n�
 
 Describe: Revenue Report Project and Best-Selling Products in 2015 at a Pizza Store.
 SQL: Clean data, Check NULL data and Duplicated Data, add columns, find Data Insights.
-Power BI: Visualization Data
+Power BI: Data Visualization 
 
 <img width="1365" height="783" alt="Dashboard Pizza_Project 1" src="https://github.com/user-attachments/assets/dd0364db-70c1-4e7c-ab59-8e53d6d63a99" />
 Các chỉ số Tổng quan:
