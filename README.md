@@ -1,5 +1,8 @@
 # Project-pizza
-Project SQL+Power BI+Python và các file luyện tập
+Mô tả: Project báo cáo doanh thu và các sản phẩm bán chạy trong năm 2015 tại một cửa hàng pizza,
+Describe:Revenue Report Project and Best-Selling Products in 2015 at a Pizza Store,
+
+
 <img width="1365" height="783" alt="Dashboard Pizza_Project 1" src="https://github.com/user-attachments/assets/dd0364db-70c1-4e7c-ab59-8e53d6d63a99" />
 Các chỉ số Tổng quan:
 - Total Revenue: 817.86K
@@ -28,6 +31,10 @@ Data Insight:
 - According to the Dashboard, clearly we can indentify the peak sales periods is Firday and July. Recommend to boost the marketing program and Sales Deals program in those periods. it's opportunity to maximize revenue
 - Pizza size L and M contribute more than 70% Total Order. This show that customers tend to order Pizza for groups. From the imforamtion about the peak period, in Friday people order Pizza a lot and the best seller is Pizza size L, we can predict that is the time people don't want to cook instead of that, they want fast meal with pizza (Normally, People work from Mon to Fri)
 - Classic Pizza is frequently customers Priority choice for Pizza Category. Maybe it can tell us, people dont't really fond of Fancy or New ingredient Pizza. They just want the classic Pizza. Understand that, Company can focus on Classic Pizza with Classic Ingredients, and also can Create new Classic Pizza to promote the Sales Performance
+
+
+
+
 
 
 
