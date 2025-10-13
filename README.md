@@ -18,13 +18,13 @@ Các chỉ số Tổng quan:
 Thời gian đơn được đặt hàng nhiều
 - Daily Trend: số đơn cao nhất vào Thứ Sáu (~3.5K đơn), thấp nhất vào Chủ Nhật (~2.6K đơn).
 - Monthly Trend: Tháng 7 đạt đỉnh 1935 đơn, thấp nhất là Tháng 2 (~1685 đơn).
-=> Biết được xu hướng đặt hàng nên tập trung tung khuyến mãi hoặc marketing mạnh để tăng doanh thu.
+=> Biết được xu hướng đặt hàng nên tập trung tung khuyến mãi hoặc marketing mạnh để tăng doanh thu.Tập trung ngân sách quảng cáo và chạy các chương trình khuyến mãi "cuối tuần" vào Thứ Năm và Thứ Sáu.Chuẩn bị kế hoạch tiếp thị chủ động cho Tháng 7 (vd: chương trình hè) và các chiến dịch kích cầu trong Tháng 2.
 
 
 Mặt hàng được ưa chuộng theo size và category
 - Category: Classic Pizza đóng góp doanh thu và số lượng đơn cao nhất.
 - Size: Cỡ L (Large) đóng góp nhiều nhất vào doanh thu. Size M và L chiếm hơn 70% tổng đơn.
-  => Khách hàng có xu hướng đặt Pizza theo nhóm và không quá chú trọng các loại pizza phức tạp (Classic pizza được yêu thích nhất).
+  => Khách hàng có xu hướng đặt Pizza theo nhóm và không quá chú trọng các loại pizza phức tạp (Classic pizza được yêu thích nhất).Đây là cơ hội để thúc đẩy các chương trình "mua kèm" hoặc combo.
  => Classic Pizza (size L) là sản phẩm “best-seller”. Tăng số lượng các sản phẩm Classic Pizza và ưu tiên các bán pizza size L. Có thể tạo thêm nhiều loại pizza mới thuộc thể loại classic và marketing phù hợp.
 
 
